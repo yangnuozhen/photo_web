@@ -4,13 +4,9 @@
 
 ## 已进行图片美化处理
 
-![厦门市滨北小学](https://www.z4a.net/images/2021/07/12/binbei.jpg "雨后拍的 哈哈哈")
-
-![乌云密布（](https://www.z4a.net/images/2021/07/12/wuyun.jpg "WOW")
-
-![](https://www.z4a.net/images/2021/07/12/xiyang.png)
-
-![原神中的夕阳](https://www.z4a.net/images/2021/07/12/xiyang2.png "太美了把")
-
-![《学 习》](https://www.z4a.net/images/2021/07/12/zuoye.jpg "当然只是摆一下子而已啦")
-
+[![binbei.th.jpg](https://www.z4a.net/images/2021/07/12/binbei.th.jpg)](https://www.z4a.net/image/gJCeOE) 
+[![wuyun.th.jpg](https://www.z4a.net/images/2021/07/12/wuyun.th.jpg)](https://www.z4a.net/image/gJC7lf) 
+[![xiangyang.th.jpg](https://www.z4a.net/images/2021/07/12/xiangyang.th.jpg)](https://www.z4a.net/image/gJ8YqG) 
+[![xiyang.th.png](https://www.z4a.net/images/2021/07/12/xiyang.th.png)](https://www.z4a.net/image/gJ8qwI) 
+[![xiyang2.th.png](https://www.z4a.net/images/2021/07/12/xiyang2.th.png)](https://www.z4a.net/image/gJC6cU) 
+[![zuoye.th.jpg](https://www.z4a.net/images/2021/07/12/zuoye.th.jpg)](https://www.z4a.net/image/gJCT0p)
