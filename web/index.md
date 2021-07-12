@@ -4,8 +4,8 @@
 
 ## 已进行图片美化处理
 
-![厦门市滨北小学后侧照](/photo/binbei.jpg "雨后拍摄")
+![厦门市滨北小学后侧照](/web/photo/binbei.jpg "雨后拍摄")
 
-![乌云密布（bushi](/photo/wuyun.jpg "在下雨，然后跑出去拍了一张，经过处理使得乌云更加离谱")
+![乌云密布（bushi](/web/photo/wuyun.jpg "在下雨，然后跑出去拍了一张，经过处理使得乌云更加离谱")
 
-![学习](/photo/zuoye.jpg "当然只是摆一下（doge）")
+![学习](/web/photo/zuoye.jpg "当然只是摆一下（doge）")
